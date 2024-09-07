@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://destijltech.com/assets/img/logo-light.png" alt="De Stijl Technology Logo" width="300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://destijltech.com/assets/img/logo-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://destijltech.com/assets/img/logo-dark.png">
+    <img alt="De Stijl Technology Logo" src="https://destijltech.com/assets/img/logo-dark.png" width="300">
+  </picture>
 </p>
 
 # Welcome to De Stijl Technology 🚀
