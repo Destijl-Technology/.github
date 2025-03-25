@@ -12,7 +12,13 @@ We are **De Stijl Technology**, a software company focused on creating innovativ
 
 ## Projects and Products 💻
 
-Stay tuned. 😈
+### 🎮 [Happy Gold Games](https://happygoldgames.io)
+
+Our flagship online game where players can enjoy a rich, interactive experience. We provide multiple sign-in options such as Apple ID, Facebook, and Google to make logging in seamless.
+
+### 🛍️ [PFun Store](https://pfunstore.com)
+
+Our online prize redeem platform, where users from _Happy Gold Games_ can log in and redeem exciting rewards. The platform integrates with our games to provide a seamless experience for players.
 
 ## Key Technologies We Use 🛠️
 
